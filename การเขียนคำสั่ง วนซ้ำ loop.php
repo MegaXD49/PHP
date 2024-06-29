@@ -21,7 +21,7 @@
         ];
         
         foreach ($students as $index => $student) {
-            echo "<li>นักเรียนเลขที่ " . ($index + 1) . " : " . $student . "</li>";
+            echo "<li>เลขที่ " . ($index + 1) . " : " . $student . "</li>";
         }
         ?>
     </ul>
